@@ -13,6 +13,8 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If$
 ~$ ls -a
 ~$ cat <- -A
 ```
+Password: 
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx$
 
 **Commands Used**
 - ls -a: View all files in directory
