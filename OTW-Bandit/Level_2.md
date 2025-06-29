@@ -5,7 +5,7 @@ The password for the next level is stored in a file called - located in the home
 **Login Details:**
 ```
 bandit1@bandit.labs.overthewire.org
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If$
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 
 *Command*
@@ -14,7 +14,7 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If$
 ~$ cat <- -A
 ```
 Password: 
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx$
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 **Commands Used**
 - ls -a: View all files in directory
