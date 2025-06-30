@@ -13,6 +13,7 @@ The password for the next level is stored in the file data.txt next to the word 
 ~ $ ls
 ~ $ cat data.txt | grep millionth
 ```
+Password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 **Commands Used**
 - ls
