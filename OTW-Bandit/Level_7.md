@@ -8,7 +8,7 @@ owned by group bandit6
 
 **Login Details**
 ```
-~ % bandit6@bandit.labs.overthewire.org -p 2220
+~ % ssh bandit6@bandit.labs.overthewire.org -p 2220
 ~ % HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```
 
